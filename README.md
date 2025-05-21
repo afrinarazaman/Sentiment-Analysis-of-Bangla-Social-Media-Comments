@@ -1,4 +1,3 @@
-# Sentiment-Analysis-of-Bangla-Social-Media-Comments
 # Sentiment Analysis of Bangla Social Media Comments: BERT vs Random Forest
 
 ## 📌 Introduction
